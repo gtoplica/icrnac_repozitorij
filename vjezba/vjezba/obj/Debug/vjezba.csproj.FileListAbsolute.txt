@@ -1,0 +1,9 @@
+C:\Users\Ivončili\Documents\GitHub\icrnac_repozitorij\vjezba\vjezba\bin\Debug\vjezba.exe.config
+C:\Users\Ivončili\Documents\GitHub\icrnac_repozitorij\vjezba\vjezba\bin\Debug\vjezba.exe
+C:\Users\Ivončili\Documents\GitHub\icrnac_repozitorij\vjezba\vjezba\bin\Debug\vjezba.pdb
+C:\Users\Ivončili\Documents\GitHub\icrnac_repozitorij\vjezba\vjezba\obj\Debug\vjezba.csprojResolveAssemblyReference.cache
+C:\Users\Ivončili\Documents\GitHub\icrnac_repozitorij\vjezba\vjezba\obj\Debug\vjezba.Form1.resources
+C:\Users\Ivončili\Documents\GitHub\icrnac_repozitorij\vjezba\vjezba\obj\Debug\vjezba.Properties.Resources.resources
+C:\Users\Ivončili\Documents\GitHub\icrnac_repozitorij\vjezba\vjezba\obj\Debug\vjezba.csproj.GenerateResource.Cache
+C:\Users\Ivončili\Documents\GitHub\icrnac_repozitorij\vjezba\vjezba\obj\Debug\vjezba.exe
+C:\Users\Ivončili\Documents\GitHub\icrnac_repozitorij\vjezba\vjezba\obj\Debug\vjezba.pdb
